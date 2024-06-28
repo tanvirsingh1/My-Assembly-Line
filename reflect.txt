@@ -1,0 +1,19 @@
+
+/*BTP-305 Final Project
+Module: N/A
+Name : Tanvir Singh
+Seneca Email :tanvir-singh1@myseneca.ca
+Student ID : 104642210
+Section information code = BTP305NAA
+Date : 2022-11-18
+I have done all the coding by myself and only copied the code that
+my professor provided to complete my workshops and assignments.
+---------------------------------------------------------- -
+Date       Reason
+---------------------------------------------------------- - */
+
+
+This final project was an overall practice of all the concepts we have covered so far in this course. Even though, the project was quite lengthy and complex. However, the overall results and things that I learnt from this Project was very knowledgeable and fruitful. First and foremost, we created a very important model for a workstation and filling items for a customer order. We used inheritance for station and workstation modules, where workstation module inherits from station model. Also, we saw associations between various classes such as composition, and aggregation in our project. Secondly, in customer module we also worked with array of pointers, where each index was pointing to item information. Working with array of pointers was very knowledgeable in itself, where along with the main pointers we also managed the data of the individual indexes as well dynamically. Furthermore, I also used things such as containers (vectors, lists), iterators, and algorithms in my project for making it successful and working. Vectors are very useful concepts as we can use various inbuilt function with them for manipulating our array of object, Secondly, even though algorithms are syntactic sugar for manual loops. However, they make our code simpler and efficient. I used a bunch of different algorithms, each serving different purposes such as for_each, copy_if, sort_id, and many more. 
+
+Talking about my experience in this Project, I didn’t face any issues while completing it because the visual studio debugger, and course notes helped me get through this Project without any hurdles.
+
